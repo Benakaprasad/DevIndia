@@ -1,10 +1,9 @@
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&width=900&lines=Hi,+I'm+Benaka+Prasad+M;Full+Stack+Development+enthsiast;Passionate+about+coding+and+Building+scalable+web+applications)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&width=900&lines=Hi,+I'm+Benaka+Prasad+M;Full+Stack+Developer;Passionate+about+coding+and+Building+scalable+web+applications)
 
 
 ## About Me
 - 🔭 Currently working on **Web Development & Open-Source Projects**  
-- 🌱 Learning **Node.js, React, Python, and Java**  
+- 🌱 Learning **Node.js, React, socket, express**  
 - 💻 Passionate about **coding, problem-solving, and tech innovation in India**  
 - 🎯 Goal: To contribute to impactful **open-source projects**  
 - 📫 Reach me: [devindia@example.com](benakaprasadm@gmail.com)  
@@ -35,9 +34,8 @@
 ## 💻 Projects
 | Project | Description | Link |
 |---------|-------------|------|
-| **DevIndia Portfolio** | Personal portfolio website showcasing projects | [View](https://github.com/DevIndia/portfolio) |
-| **India Tech Blog** | Blog site built with React & Node.js | [View](https://github.com/DevIndia/india-tech-blog) |
-| **Open-Source Contributions** | Contributions to GitHub open-source projects | [View](https://github.com/DevIndia) |
+| **DevIndia Portfolio** | Personal portfolio website showcasing projects | [View](https://github.com/Benakaprasad/Devindia/portfolio) |
+| **Bingo Game** | game built with html css javascript & Node.js | [View](https://github.com/Benakaprasad/Bingo) |
 
 ---
 
