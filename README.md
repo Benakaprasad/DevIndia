@@ -71,7 +71,7 @@
 <br><strong>Bootstrap</strong>
 </td>
 <td align="center" width="120">
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg](https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg)" width="48" height="48" alt="Tailwind CSS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind CSS" />
 <br><strong>Tailwind CSS</strong>
 </td>
 </tr>
