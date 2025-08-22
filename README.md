@@ -1,5 +1,3 @@
-
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&width=900&lines=Hi,+I'm+Benaka+Prasad+M;Full+Stack+Developer;Passionate+about+Building+Scalable+Web+Applications;Always+Learning+%26+Growing!)
 
 <div align="center">
@@ -193,16 +191,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Benakaprasad)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benakaprasadm@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/Benakaprasad)
-
-</div>
-
----
-
-## 📈 Profile Views & Visitors
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=Benakaprasad&color=brightgreen&style=for-the-badge)
 
 </div>
 
