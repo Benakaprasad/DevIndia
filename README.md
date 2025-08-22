@@ -1,5 +1,5 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=500&lines=Hi,+I'm+Benaka+Prasad+M;Full+Stack+Developer;Passionate+about+coding+and+open-source+prjects)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&width=500&lines=Hi,+I'm+Benaka+Prasad+M;Full+Stack+Developer;Passionate+about+coding+and+open-source+prjects)
 
 
 ## About Me
@@ -7,8 +7,8 @@
 - 🌱 Learning **Node.js, React, Python, and Java**  
 - 💻 Passionate about **coding, problem-solving, and tech innovation in India**  
 - 🎯 Goal: To contribute to impactful **open-source projects**  
-- 📫 Reach me: [devindia@example.com](mailto:devindia@example.com)  
-- 🌐 Portfolio: [https://github.com/DevIndia](https://github.com/DevIndia)
+- 📫 Reach me: [devindia@example.com](benakaprasadm@gmail.com)  
+- 🌐 Portfolio: [https://github.com/DevIndia](https://github.com/Benakaprasad)
 
 ---
 
