@@ -131,7 +131,7 @@
 <table>
 <tr>
 <td align="center" width="120">
-<img src="https://www.vectorlogo.zone/logos/ngrok/ngrok-icon.svg" width="48" height="48" alt="Ngrok" />
+<img src="https://iconbuddy.com/logos/ngrok.svg" width="48" height="48" alt="Ngrok" />
 <br><strong>Ngrok</strong>
 </td>
 <td align="center" width="120">
