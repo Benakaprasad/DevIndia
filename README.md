@@ -1,6 +1,5 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=2000&color=1E90FF&width=900&repeat=true&lines=I'm+Benaka+Prasad+M;I'm+Benaka+Prasad+M;Full+Stack+Developer;DevIndia;Passionate+about+Building+Scalable+Web+Applications;Always+Learning+%26+Growing!)
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=1E90FF&width=900&lines=Hi,+I'm+Benaka+Prasad+M;Full+Stack+Developer;Passionate+about+Building+Scalable+Web+Applications;Always+Learning+%26+Growing!)
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
