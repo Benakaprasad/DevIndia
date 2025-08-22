@@ -1,6 +1,6 @@
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=28&pause=1000&color=1E90FF&width=900&lines=Hi,+I'm+Benaka+Prasad+M;Full+Stack+Developer;Passionate+about+Building+Scalable+Web+Applications;Always+Learning+%26+Growing!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=1E90FF&width=900&lines=Hi,+I'm+Benaka+Prasad+M;Full+Stack+Developer;Passionate+about+Building+Scalable+Web+Applications;Always+Learning+%26+Growing!)
 
 </div>
 <div align="center">
