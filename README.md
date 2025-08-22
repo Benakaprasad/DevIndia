@@ -198,8 +198,6 @@
 
 <div align="center">
 
-### 🌟 "*Code is like humor. When you have to explain it, it's bad.*" - Cory House
-
 **🇮🇳 Proudly coding from India | Always learning, building, and contributing to the tech community!**
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
