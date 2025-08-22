@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Benaka Prasad M
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&width=900&lines=Hi,+I'm+Benaka+Prasad+M;Full+Stack+Developer;Passionate+about+Building+Scalable+Web+Applications;Always+Learning+%26+Growing!)
 
@@ -55,24 +55,12 @@
 <table>
 <tr>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-<br><strong>React</strong>
-</td>
-<td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
 <br><strong>HTML5</strong>
 </td>
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
 <br><strong>CSS3</strong>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
-<br><strong>Bootstrap</strong>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind CSS" />
-<br><strong>Tailwind CSS</strong>
 </td>
 </tr>
 </table>
@@ -110,10 +98,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
 <br><strong>MySQL</strong>
 </td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" />
-<br><strong>SQLite</strong>
-</td>
 </tr>
 </table>
 </div>
@@ -135,10 +119,6 @@
 <br><strong>GitHub</strong>
 </td>
 <td align="center" width="120">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
-<br><strong>Postman</strong>
-</td>
-<td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="NPM" />
 <br><strong>NPM</strong>
 </td>
@@ -151,12 +131,8 @@
 <table>
 <tr>
 <td align="center" width="120">
-<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="48" height="48" alt="Netlify" />
-<br><strong>Netlify</strong>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="48" height="48" alt="Heroku" />
-<br><strong>Heroku</strong>
+<img src="https://www.vectorlogo.zone/logos/ngrok/ngrok-icon.svg" width="48" height="48" alt="Ngrok" />
+<br><strong>Ngrok</strong>
 </td>
 <td align="center" width="120">
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase" />
