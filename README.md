@@ -1,9 +1,6 @@
-# 👋 Hi, I'm Benaka Prasad  
-### 💻 Full Stack Developer  
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=500&lines=Hi,+I'm+Benaka+Prasad;Full+Stack+Developer;Passionate+about+coding+and+open-source)
 
-![Header GIF](https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif)
 
 ## About Me
 - 🔭 Currently working on **Web Development & Open-Source Projects**  
