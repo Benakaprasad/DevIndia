@@ -1,5 +1,5 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&width=500&lines=Hi,+I'm+Benaka+Prasad+M;Full+Stack+Developer;Passionate+about+coding+and+open-source+prjects)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&width=900&lines=Hi,+I'm+Benaka+Prasad+M;Full+Stack+Development+enthsiast;Passionate+about+coding+and+Building+scalable+web+applications)
 
 
 ## About Me
