@@ -1,14 +1,20 @@
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=1E90FF&width=900&lines=Hi,+I'm+Benaka+Prasad+M;Full+Stack+Developer;Passionate+about+Building+Scalable+Web+Applications;Always+Learning+%26+Growing!" 
        style="max-width: 100%; height: auto;" 
        alt="Typing SVG" />
+</div>
+
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=Benakaprasad&color=brightgreen&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/Benakaprasad?logo=github&style=for-the-badge&color=0969da)
+
 </div>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -162,23 +168,23 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Benakaprasad&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benakaprasad&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Benakaprasad&show_icons=true&theme=radical&include_all_commits=true&count_private=true" style="max-width: 100%; height: auto;"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benakaprasad&layout=compact&langs_count=8&theme=radical" style="max-width: 100%; height: auto;"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Benakaprasad&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Benakaprasad&theme=radical" alt="GitHub Streak" style="max-width: 100%; height: auto;"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Benakaprasad&theme=redical&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Benakaprasad&theme=redical&hide_border=true" alt="Contribution Graph" style="max-width: 100%; height: auto;"/>
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Benakaprasad&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Benakaprasad&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" style="max-width: 100%; height: auto;"/>
 </div>
 
 ---
@@ -200,6 +206,6 @@
 
 **🇮🇳 Proudly coding from India | Always learning, building, and contributing to the tech community!**
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave" style="max-width: 100%; height: auto;"/>
 
 </div>
