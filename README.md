@@ -1,5 +1,6 @@
-<div align="center" class="desktop-only">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=1E90FF&width=900&lines=Hi,+I'm+Benaka+Prasad+M;Full+Stack+Developer;Passionate+about+Building+Scalable+Web+Applications;Always+Learning+%26+Growing!" 
+       style="max-width: 100%; height: auto;" 
        alt="Typing SVG" />
 </div>
 <div align="center">
