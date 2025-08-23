@@ -155,7 +155,6 @@
 
 | 🚀 Project | 📝 Description | 🔗 Links | 🛠️ Tech Stack |
 |------------|-----------------|-----------|----------------|
-| **Portfolio Website** | Personal portfolio showcasing my projects and skills | [🌐 Live](https://github.com/Benakaprasad) • [📁 Code](https://github.com/Benakaprasad/portfolio) | React, CSS, JavaScript |
 | **Bingo Game** | Interactive multiplayer bingo game with real-time features | [🎮 Play](https://github.com/Benakaprasad/Bingo) • [📁 Code](https://github.com/Benakaprasad/Bingo) | HTML, CSS, JavaScript, Node.js |
 
 </div>
