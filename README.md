@@ -182,9 +182,14 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Profile Summary
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Benakaprasad&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" style="max-width: 100%; height: auto;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Benakaprasad&theme=radical" alt="Profile Summary" style="max-width: 100%; height: auto;"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Benakaprasad&theme=radical" alt="Top Languages" style="max-width: 48%; height: auto; display: inline-block;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Benakaprasad&theme=radical" alt="Most Used Language" style="max-width: 48%; height: auto; display: inline-block;"/>
 </div>
 
 ---
